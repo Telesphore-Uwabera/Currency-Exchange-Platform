@@ -29,6 +29,10 @@ This is a simple web application that allows users to convert between different 
 
 This project uses the [ExchangeRate-API](https://www.exchangerate-api.com/) for fetching real-time exchange rates.
 
+## The Link
+
+This is the link to the [platform](https://telesphore-uwabera.github.io/Currency-Exchange-Platform/)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
