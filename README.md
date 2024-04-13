@@ -31,7 +31,7 @@ This project uses the [ExchangeRate-API](https://www.exchangerate-api.com/) for 
 
 ## The Link
 
-This is the link to the [platform](https://telesphore-uwabera.github.io/Currency-Exchange-Platform/)
+This is the link to the [Currency Exchange Platform](https://telesphore-uwabera.github.io/Currency-Exchange-Platform/).
 
 ## License
 
